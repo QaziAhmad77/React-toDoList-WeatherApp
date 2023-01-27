@@ -1,10 +1,11 @@
 import React from "react";
-import Todo from "./components/todoreact/todo";
 // import Temp from "./components/weather/temp";
+import Todo from "./components/todoreact/todo";
 
 const App = () => {
   return (
     <>
+      {/* <Temp /> */}
       <Todo />
     </>
   );
