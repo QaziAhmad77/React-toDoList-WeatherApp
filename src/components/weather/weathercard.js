@@ -1,15 +1,6 @@
 import React, { useEffect } from "react";
 
-const Weathercard = ({
-  temp,
-  humidity,
-  pressure,
-  weathermood,
-  name,
-  speed,
-  country,
-  sunset,
-}) => {
+const Weathercard = ({ temp, humidity, pressure, weathermood, name, speed, country, sunset }) => {
   const [weatherState, setWeatheState] = React.useState("");
 
   useEffect(() => {
@@ -27,7 +18,6 @@ const Weathercard = ({
         case "Mist":
           setWeatheState("wi-dust");
           break;
-
         default:
           setWeatheState("wi-day-sunny");
           break;
