@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-toDoList-WeatherApp/static/css/main.9adf349c.chunk.css",
+    "main.js": "/React-toDoList-WeatherApp/static/js/main.a8c88564.chunk.js",
+    "main.js.map": "/React-toDoList-WeatherApp/static/js/main.a8c88564.chunk.js.map",
+    "runtime-main.js": "/React-toDoList-WeatherApp/static/js/runtime-main.e784335b.js",
+    "runtime-main.js.map": "/React-toDoList-WeatherApp/static/js/runtime-main.e784335b.js.map",
+    "static/js/2.18952061.chunk.js": "/React-toDoList-WeatherApp/static/js/2.18952061.chunk.js",
+    "static/js/2.18952061.chunk.js.map": "/React-toDoList-WeatherApp/static/js/2.18952061.chunk.js.map",
+    "static/js/3.ccac1bb5.chunk.js": "/React-toDoList-WeatherApp/static/js/3.ccac1bb5.chunk.js",
+    "static/js/3.ccac1bb5.chunk.js.map": "/React-toDoList-WeatherApp/static/js/3.ccac1bb5.chunk.js.map",
+    "index.html": "/React-toDoList-WeatherApp/index.html",
+    "static/css/main.9adf349c.chunk.css.map": "/React-toDoList-WeatherApp/static/css/main.9adf349c.chunk.css.map",
+    "static/js/2.18952061.chunk.js.LICENSE.txt": "/React-toDoList-WeatherApp/static/js/2.18952061.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e784335b.js",
+    "static/js/2.18952061.chunk.js",
+    "static/css/main.9adf349c.chunk.css",
+    "static/js/main.a8c88564.chunk.js"
+  ]
+}
